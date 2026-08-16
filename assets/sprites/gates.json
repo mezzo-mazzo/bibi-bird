@@ -1,0 +1,1335 @@
+{
+ "frames": {
+  "gate_channel14_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_channel14_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_channel14_title": {
+   "frame": {
+    "h": 36,
+    "w": 237,
+    "x": 0,
+    "y": 891
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 237
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 237,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_channel14_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 201,
+    "y": 0
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_daycare_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 402,
+    "y": 0
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_daycare_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 141,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_daycare_title": {
+   "frame": {
+    "h": 36,
+    "w": 258,
+    "x": 1493,
+    "y": 854
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 258
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 258,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_daycare_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 603,
+    "y": 0
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_draft-law_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 804,
+    "y": 0
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_draft-law_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 282,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_draft-law_title": {
+   "frame": {
+    "h": 36,
+    "w": 279,
+    "x": 945,
+    "y": 854
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 279
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 279,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_draft-law_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1005,
+    "y": 0
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_five-elections_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1206,
+    "y": 0
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_five-elections_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 423,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_five-elections_title": {
+   "frame": {
+    "h": 36,
+    "w": 291,
+    "x": 653,
+    "y": 854
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 291
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 291,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_five-elections_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1407,
+    "y": 0
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_gallant-night_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1608,
+    "y": 0
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_gallant-night_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 564,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_gallant-night_title": {
+   "frame": {
+    "h": 36,
+    "w": 373,
+    "x": 802,
+    "y": 817
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 373
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 373,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_gallant-night_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1809,
+    "y": 0
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_hamas-cash_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 217
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_hamas-cash_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 705,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_hamas-cash_title": {
+   "frame": {
+    "h": 36,
+    "w": 424,
+    "x": 1027,
+    "y": 734
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 424
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 424,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_hamas-cash_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 201,
+    "y": 217
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_hostages_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 402,
+    "y": 217
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_hostages_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 846,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_hostages_title": {
+   "frame": {
+    "h": 36,
+    "w": 313,
+    "x": 339,
+    "y": 854
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 313
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 313,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_hostages_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 603,
+    "y": 217
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_immunity_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 804,
+    "y": 217
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_immunity_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 987,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_immunity_title": {
+   "frame": {
+    "h": 36,
+    "w": 373,
+    "x": 1176,
+    "y": 817
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 373
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 373,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_immunity_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1005,
+    "y": 217
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_indictment_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1206,
+    "y": 217
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_indictment_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 1128,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_indictment_title": {
+   "frame": {
+    "h": 36,
+    "w": 361,
+    "x": 1550,
+    "y": 817
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 361
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 361,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_indictment_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1407,
+    "y": 217
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_october-7_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1608,
+    "y": 217
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_october-7_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 1269,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_october-7_title": {
+   "frame": {
+    "h": 36,
+    "w": 404,
+    "x": 0,
+    "y": 817
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 404
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 404,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_october-7_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1809,
+    "y": 217
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_overhaul_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 434
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_overhaul_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 1410,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_overhaul_title": {
+   "frame": {
+    "h": 36,
+    "w": 338,
+    "x": 0,
+    "y": 854
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 338
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 338,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_overhaul_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 201,
+    "y": 434
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_pardon_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 402,
+    "y": 434
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_pardon_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 1551,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_pardon_title": {
+   "frame": {
+    "h": 36,
+    "w": 396,
+    "x": 405,
+    "y": 817
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 396
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 396,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_pardon_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 603,
+    "y": 434
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_patronage_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 804,
+    "y": 434
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_patronage_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 1692,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_patronage_title": {
+   "frame": {
+    "h": 36,
+    "w": 226,
+    "x": 238,
+    "y": 891
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 226
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 226,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_patronage_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1005,
+    "y": 434
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_qatargate_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1206,
+    "y": 434
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_qatargate_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 1833,
+    "y": 651
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_qatargate_title": {
+   "frame": {
+    "h": 36,
+    "w": 462,
+    "x": 564,
+    "y": 734
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 462
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 462,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_qatargate_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1407,
+    "y": 434
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_submarine_bot": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1608,
+    "y": 434
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_submarine_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 734
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_submarine_title": {
+   "frame": {
+    "h": 36,
+    "w": 414,
+    "x": 1452,
+    "y": 734
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 414
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 414,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "gate_submarine_top": {
+   "frame": {
+    "h": 216,
+    "w": 200,
+    "x": 1809,
+    "y": 434
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 216,
+    "w": 200
+   },
+   "spriteSourceSize": {
+    "h": 216,
+    "w": 200,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "revive_base_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 141,
+    "y": 734
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "revive_base_title": {
+   "frame": {
+    "h": 36,
+    "w": 239,
+    "x": 1752,
+    "y": 854
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 239
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 239,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "revive_donor_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 282,
+    "y": 734
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "revive_donor_title": {
+   "frame": {
+    "h": 36,
+    "w": 267,
+    "x": 1225,
+    "y": 854
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 267
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 267,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "revive_pardon_card": {
+   "frame": {
+    "h": 82,
+    "w": 140,
+    "x": 423,
+    "y": 734
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 82,
+    "w": 140
+   },
+   "spriteSourceSize": {
+    "h": 82,
+    "w": 140,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  "revive_pardon_title": {
+   "frame": {
+    "h": 36,
+    "w": 174,
+    "x": 465,
+    "y": 891
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 36,
+    "w": 174
+   },
+   "spriteSourceSize": {
+    "h": 36,
+    "w": 174,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  }
+ },
+ "meta": {
+  "app": "bibi-bird/tools",
+  "format": "RGBA8888",
+  "image": "gates.png",
+  "scale": "1",
+  "size": {
+   "h": 928,
+   "w": 2048
+  },
+  "version": "1.0"
+ }
+}
