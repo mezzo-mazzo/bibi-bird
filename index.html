@@ -10,17 +10,64 @@
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <title>Bibi Bird</title>
+    <title>Bibi-Bird</title>
+    <meta name="description" content="A daily challenge to save the country and fly for freedom" />
+
+    <!-- Link preview (CLAUDE.md §23).
+
+         Two questions this head keeps prompting, answered here so they only
+         have to be answered once:
+
+         * why not fill og:image in at runtime from location.href? Because
+           WhatsApp, Telegram and X do not execute JavaScript. They fetch this
+           file and parse the head as text, so whatever is in the served bytes
+           is all they ever see - a meta tag a script writes is never read.
+         * why not just make it relative? Because the Open Graph URL type is
+           defined as http:// or https://, and WhatsApp's crawler (Facebook's)
+           and X's both want an absolute one and show no picture without it.
+
+         So the address is a build-time substitution: the token below is
+         replaced by the `linkPreview` plugin in vite.config.ts, which detects
+         the deploy URL from the host's own environment. Never write a host name
+         here. When the plugin cannot work the URL out it substitutes *nothing*,
+         leaving a relative og.png (which Vite then rebases against `base`) and
+         dropping the three tags marked - a degraded card
+         that is at least never a claim about a domain we do not own.
+
+         The declared og:image size is checked against the drawn card by
+         tools/build_og.py. -->
+    <link rel="canonical" href="https://mezzo-mazzo.github.io/bibi-bird/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Bibi-Bird" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:url" content="https://mezzo-mazzo.github.io/bibi-bird/" />
+    <meta property="og:title" content="Bibi-Bird" />
+    <meta property="og:description" content="A daily challenge to save the country and fly for freedom" />
+    <meta property="og:image" content="https://mezzo-mazzo.github.io/bibi-bird/og.png" />
+    <meta property="og:image:secure_url" content="https://mezzo-mazzo.github.io/bibi-bird/og.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta
-      name="description"
-      content="Fly on champagne fuel, pee on civilians for money, crash when the tank runs dry."
+      property="og:image:alt"
+      content="A pixel-art caricature of Bibi Netanyahu riding a champagne bottle over a green lawn, flying towards a stone landmark arch, with protest crowds and their placards on the ground below."
     />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Bibi-Bird" />
+    <meta name="twitter:description" content="A daily challenge to save the country and fly for freedom" />
+    <meta name="twitter:image" content="https://mezzo-mazzo.github.io/bibi-bird/og.png" />
+    <meta
+      name="twitter:image:alt"
+      content="A pixel-art caricature of Bibi Netanyahu riding a champagne bottle over a green lawn, flying towards a stone landmark arch, with protest crowds and their placards on the ground below."
+    />
+
     <link rel="icon" href="./favicon.ico" sizes="any" />
     <link rel="icon" type="image/png" href="./favicon.png" />
     <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
-    <script type="module" crossorigin src="./assets/index-CPO8tl7u.js"></script>
+    <script type="module" crossorigin src="./assets/index-CqWBvSa5.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/pixi-DEDNIltA.js">
-    <link rel="stylesheet" crossorigin href="./assets/index-C1GLYxsC.css">
+    <link rel="stylesheet" crossorigin href="./assets/index-CT6sheGC.css">
   </head>
   <body>
     <div id="app">
